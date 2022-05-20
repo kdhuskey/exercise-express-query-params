@@ -627,4 +627,4 @@ module.exports = {
   findAll,
   findOneById,
   search
-}
+} 
